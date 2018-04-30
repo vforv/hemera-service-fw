@@ -21,18 +21,27 @@ For code coverage report click [HERE](http://htmlpreview.github.io/?https://gith
 # Default cluster
 
 TITAN_NATS_SERVICE_HOST
+
 NATS_CLUSTER_USER
+
 NATS_CLUSTER_PASSWORD
+
 TITAN_MONGO_CLUSTER
+
 TITAN_MONGO_CLUSTER_USER
+
 TITAN_MONGO_CLUSTER_PASSWORD
+
 PROD=true
 
 # Default testing
 
 TITAN_MONGO_CLUSTER
+
 TITAN_MONGO_CLUSTER_USER
+
 TITAN_MONGO_CLUSTER_PASSWORD
+
 TEST=true
 
 # Added env
